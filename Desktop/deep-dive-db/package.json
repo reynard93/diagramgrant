@@ -1,0 +1,19 @@
+{
+  "name": "deep-dive-db",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@iconify-json/logos": "^1.1.42",
+    "@slidev/cli": "^0.48.9",
+    "@slidev/theme-default": "^0.25.0",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.43.0"
+  }
+}
